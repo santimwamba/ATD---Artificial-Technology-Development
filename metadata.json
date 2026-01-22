@@ -1,0 +1,7 @@
+{
+  "name": "ATD - Artificial Technology Development",
+  "description": "A high-performance AI interaction platform by Artificial Technology Development (ATD), using Gemini 3 Flash for ultra-low latency and secure administrative logging.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
